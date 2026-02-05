@@ -9,6 +9,15 @@
 
 ---
 
+## 🚀 Demo Online
+
+[![Deploy Vercel](https://img.shields.io/badge/Deploy-Vercel-black?style=for-the-badge&logo=vercel)](https://task-manager-react-ts-six.vercel.app/)
+
+👉 **Acesse a aplicação em produção:**  
+🔗 https://task-manager-react-ts-six.vercel.app/
+
+---
+
 ## 📋 Sobre o Projeto
 
 O **Gerenciador de Tarefas** é uma aplicação web desenvolvida com **React**, **Vite** e **TypeScript**, com foco em organização de tarefas, boas práticas de componentização e uso de ferramentas modernas do ecossistema frontend.
