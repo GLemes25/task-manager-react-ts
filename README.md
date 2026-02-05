@@ -79,7 +79,7 @@ fetch("https://jsonplaceholder.typicode.com/todos?_limit=10");
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/GLemes25/task-manager-react-ts.git
 
 # Acesse a pasta
 cd seu-repositorio
